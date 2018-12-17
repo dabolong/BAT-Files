@@ -1,2 +1,1 @@
-# test
-test
+#BAT file to automate installation
