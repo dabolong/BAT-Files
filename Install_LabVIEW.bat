@@ -1,3 +1,4 @@
+rem use vs 2017 as source control
 set Language_=%1
 set Year_=%2
 set Language_tail_feed=%3
